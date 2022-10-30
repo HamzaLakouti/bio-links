@@ -11,9 +11,9 @@ this project is a bio link where you can put all your links in one place
 
 
 <ul>
-<li>Html<\li>
-<li>css<\li>
-<li>Javascript<\li>
+<li>Html
+<li>css
+<li>Javascript
 </ul>
 
 This tutorial is inspired from [Craftzdog](https://www.craftz.dog)
