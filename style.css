@@ -1,12 +1,8 @@
-body, html{
+body{
     margin: 0;
     padding: 0;
     font-family:'Open Sans', sans-serif;
     color: white;
-}
-body{
-    /* background: url(./images/bg.jpg) repeat center center fixed;
-    background-size: cover; */
 }
 video{
     z-index: 0;
@@ -72,6 +68,11 @@ ul > li > a{
     align-items: center;
     gap: 1.5em;
 }
+
+ul > li:hover{
+    background: #fff;
+}
+
 a{
     color: black;
     text-decoration: solid;
