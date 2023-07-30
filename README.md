@@ -16,7 +16,6 @@ this project is a bio link where you can put all your links in one place
 <li>Javascript
 </ul>
 
-This tutorial is inspired from [Craftzdog](https://www.craftz.dog)
 
 
 
